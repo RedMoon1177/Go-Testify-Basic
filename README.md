@@ -9,4 +9,9 @@ Provides an easy way to create mock objects that can be used to simulate depende
 ### Suites: 
 Allows you to group related tests together, providing setup and teardown methods that run before and after the tests in the suite.
 
+## Installation
+To use Testify in your Go project, you need to install it using go get: **go get github.com/stretchr/testify**
+
+By incorporating Testify into your Go testing workflow, you can write more readable, maintainable, and expressive tests, which can significantly improve the quality and reliability of your code.
+
 Reference: https://pkg.go.dev/github.com/stretchr/testify
